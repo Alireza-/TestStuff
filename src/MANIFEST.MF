@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+
+Import-Package: com.bea.wlevs.ede,
+junit.framework;version="3.8.1",
+org.springframework.util;version="2.5",
+com.bea.wlevs.util,
+com.bea.wlevs.ede.api, 
+com.bea.wlevs.server.management,
+org.apache.commons.logging;version="1.1.0",
+org.springframework.beans.factory,
+com.bea.wlevs.spring.support,
+com.bea.wlevs.monitor,
+com.bea.core.jmx.remote.provider.msarmi,
+com.bea.wlevs.management.configuration,
+org.aopalliance.aop,
+net.sf.cglib.core,
+net.sf.cglib.proxy,
+net.sf.cglib.reflect
